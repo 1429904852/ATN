@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zhaof/ATN/data/yelp/checkpoint/model-155880"
+all_model_checkpoint_paths: "/home/zhaof/ATN/data/yelp/checkpoint/model-155880"
