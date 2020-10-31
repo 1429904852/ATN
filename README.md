@@ -1,5 +1,5 @@
 # ATN
-ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sentiment Classification]()》, which is accepted by Coling'2020.
+ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sentiment Classification](https://arxiv.org/pdf/2010.12156.pdf)》, which is accepted by Coling'2020.
 
 # Dependencies
 
