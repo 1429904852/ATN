@@ -29,7 +29,7 @@ sh run_atn_guide.sh
 ```bash
 sh run_atn_fusion.sh
 ```
-# Cite
+# Citation
 ```bash
 @article{zhao2020attention,
   title={Attention Transfer Network for Aspect-level Sentiment Classification},
