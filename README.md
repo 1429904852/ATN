@@ -10,12 +10,11 @@ ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sen
 # Quick Start
 
 ### Step1: pretrained (skip this step)
-- train
-For example, you can use the folowing command to pre-train DSC model:
+- train(for example, you can use the folowing command to pre-train DSC model)
 ```bash
 python pre_train.py
 ```
-- eval (get attention scores)
+- eval (at inference time, you can get attention scores)
 ```bash
 python pre_train_eval.py
 ```
