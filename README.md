@@ -3,14 +3,15 @@ ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sen
 
 # Dependencies
 
-- python==3.5
-- numpy==1.14.2
-- tensorflow==1.9
+- python=3.5
+- numpy=1.14.2
+- tensorflow=1.9
 
 # Quick Start
 
 ### Step1: pretrained (skip this step)
 - train
+For example, you can use the folowing command to pre-train DSC model:
 ```bash
 python pre_train.py
 ```
