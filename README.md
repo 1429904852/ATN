@@ -3,11 +3,10 @@ ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sen
 
 # Dependencies
 
-```bash
-python==3.5
-numpy==1.14.2
-tensorflow==1.9
-```
+- python==3.5
+- numpy==1.14.2
+- tensorflow==1.9
+
 # Quick Start
 
 ### Step1: pretrained (skip this step)
