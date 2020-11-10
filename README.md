@@ -30,5 +30,13 @@ sh run_atn_guide.sh
 ```bash
 sh run_atn_fusion.sh
 ```
-
+# Cite
+```bash
+@article{zhao2020attention,
+  title={Attention Transfer Network for Aspect-level Sentiment Classification},
+  author={Zhao, Fei and Wu, Zhen and Dai, Xinyu},
+  journal={arXiv preprint arXiv:2010.12156},
+  year={2020}
+}
+```
 if you have any questions, please contact me zhaof@smail.nju.edu.cn.
