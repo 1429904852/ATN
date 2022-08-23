@@ -1,6 +1,6 @@
 # ATN
 
-Code and data for "[Attention Transfer Network for Aspect-level Sentiment Classification](https://aclanthology.org/2020.coling-main.70.pdf)" (COLING 2020)
+Codes and datasets for our COLING 2022 paper: "[Attention Transfer Network for Aspect-level Sentiment Classification](https://aclanthology.org/2020.coling-main.70.pdf)"
 
 
 ## Overview
