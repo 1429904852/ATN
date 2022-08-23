@@ -16,7 +16,7 @@ Codes and datasets for our COLING 2022 paper: "[Attention Transfer Network for A
 - numpy=1.14.2
 - tensorflow=1.9
 
-## Quick Start
+## Usage
 
 ### Step1: pretrained (skip this step)
 - train(for example, you can use the folowing command to pre-train DSC model)
