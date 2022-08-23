@@ -1,5 +1,7 @@
 # ATN
-ATN is the proposed model in 《[Attention Transfer Network for Aspect-level Sentiment Classification](https://aclanthology.org/2020.coling-main.70.pdf)》, which is accepted by COLING 2020.
+
+Code and data for "[Attention Transfer Network for Aspect-level Sentiment Classification](https://aclanthology.org/2020.coling-main.70.pdf)" (COLING 2020)
+
 
 ## Overview
 
@@ -43,8 +45,6 @@ sh run_atn_fusion.sh
     author = "Zhao, Fei and Wu, Zhen and Dai, Xinyu",
     booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
     year = "2020",
-    publisher = "International Committee on Computational Linguistics",
-    doi = "10.18653/v1/2020.coling-main.70",
     pages = "811--821"
 }
 ```
